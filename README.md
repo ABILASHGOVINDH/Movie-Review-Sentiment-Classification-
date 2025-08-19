@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.8%2B-orange)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 A comparative study of sentiment analysis on IMDB movie reviews using:
 - BERT (Bidirectional Encoder Representations from Transformers)
